@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gowin-synthesis-project>
+<Project>
+    <Version>beta</Version>
+    <Device id="GW1NSR-4C" package="QFN48P" speed="7" partNumber="GW1NSR-LV4CQN48PC7/I6"/>
+    <FileList>
+        <File path="D:/Gowin/Gowin_V1.9.8.10/IDE/ipcore/DVI_RX/data/dvi_rx_top.v" type="verilog"/>
+        <File path="D:/Gowin/Gowin_V1.9.8.10/IDE/ipcore/DVI_RX/data/dvi2rgb.v" type="verilog"/>
+    </FileList>
+    <OptionList>
+        <Option type="disable_insert_pad" value="1"/>
+        <Option type="dsp_balance" value="1"/>
+        <Option type="include_path" value="D:/Gowin/Gowin_V1.9.8.10/IDE/ipcore/DVI_RX/data"/>
+        <Option type="include_path" value="F:/proj/nano4k_dvitx/project/src/dvi_rx/temp/DviRx"/>
+        <Option type="output_file" value="dvi_rx.vg"/>
+        <Option type="output_template" value="dvi_rx_tmp.v"/>
+        <Option type="ram_balance" value="1"/>
+        <Option type="ram_rw_check" value="1"/>
+        <Option type="verilog_language" value="sysv-2017"/>
+    </OptionList>
+</Project>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="test_top" Register="36" Alu="9" Lut="64">
+    <SubModule name="testpattern_inst" Register="170" Lut="289"/>
+    <SubModule name="u_Gowin_PLLVR"/>
+    <SubModule name="DVI_TX_Top_inst" Register="73" Alu="68" Lut="217"/>
+</Module>

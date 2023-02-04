@@ -1,0 +1,28 @@
+{
+ "Files" : [
+  {
+   "Path" : "F:/proj/nano4k_dvitx/project/src/dvi_tx/dvi_tx.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "F:/proj/nano4k_dvitx/project/src/gowin_pllvr/gowin_pllvr.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "F:/proj/nano4k_dvitx/project/src/test_top.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "F:/proj/nano4k_dvitx/project/src/testpattern.v",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "F:/proj/nano4k_dvitx/project/impl/temp/rtl_parser.result",
+ "Top" : "test_top",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}

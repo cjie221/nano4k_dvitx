@@ -1,0 +1,11 @@
+-d F:\proj\nano4k_dvitx\project\impl\gwsynthesis\test_top.vg
+-p GW1NSR-4C-QFN48P-7
+-pn GW1NSR-LV4CQN48PC7/I6
+-cst F:\proj\nano4k_dvitx\project\src\test_top.cst
+-cfg F:\proj\nano4k_dvitx\project\impl\pnr\device.cfg
+-bit
+-tr
+-ph
+-timing
+-cst_error
+-route_maxfan 23

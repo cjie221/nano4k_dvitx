@@ -1,0 +1,46 @@
+[
+ {
+  "InstFile" : "F:/proj/nano4k_dvitx/project/src/test_top.v",
+  "InstLine" : 2,
+  "InstName" : "test_top",
+  "ModuleFile" : "F:/proj/nano4k_dvitx/project/src/test_top.v",
+  "ModuleLine" : 2,
+  "ModuleName" : "test_top",
+  "SubInsts" : [
+   {
+    "InstFile" : "F:/proj/nano4k_dvitx/project/src/test_top.v",
+    "InstLine" : 55,
+    "InstName" : "testpattern_inst",
+    "ModuleFile" : "F:/proj/nano4k_dvitx/project/src/testpattern.v",
+    "ModuleLine" : 18,
+    "ModuleName" : "testpattern"
+   },
+   {
+    "InstFile" : "F:/proj/nano4k_dvitx/project/src/test_top.v",
+    "InstLine" : 97,
+    "InstName" : "u_Gowin_PLLVR",
+    "ModuleFile" : "F:/proj/nano4k_dvitx/project/src/gowin_pllvr/gowin_pllvr.v",
+    "ModuleLine" : 9,
+    "ModuleName" : "Gowin_PLLVR"
+   },
+   {
+    "InstFile" : "F:/proj/nano4k_dvitx/project/src/test_top.v",
+    "InstLine" : 113,
+    "InstName" : "DVI_TX_Top_inst",
+    "ModuleFile" : "F:/proj/nano4k_dvitx/project/src/dvi_tx/dvi_tx.v",
+    "ModuleLine" : 1042,
+    "ModuleName" : "DVI_TX_Top",
+    "SubInsts" : [
+     {
+      "InstFile" : "F:/proj/nano4k_dvitx/project/src/dvi_tx/dvi_tx.v",
+      "InstLine" : 1073,
+      "InstName" : "rgb2dvi_inst",
+      "ModuleFile" : "F:/proj/nano4k_dvitx/project/src/dvi_tx/dvi_tx.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "~rgb2dvi.DVI_TX_Top"
+     }
+    ]
+   }
+  ]
+ }
+]

@@ -1,0 +1,8 @@
+`define RX_PLL_CLKIN_FRE "74.25"
+`define RX_USE_PLLVR
+`define RX_PLL_ODIV_SEL 2
+`define MANUAL_PHASE
+`define RX_CLKOUTP_PHASE 4'd4
+`define CH0_IODELAY 0
+`define CH1_IODELAY 0
+`define CH2_IODELAY 0
